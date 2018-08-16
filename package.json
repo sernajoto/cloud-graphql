@@ -1,0 +1,11 @@
+{
+  "name": "cloud-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sernajoto/cloud-graphql.git",
+  "author": "Guilherme Sernajoto <guilhermesernajoto@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.1"
+  }
+}

@@ -1,0 +1,9 @@
+type Query {
+  cloud: [Cloud!]!
+}
+
+type Cloud {
+  name: String!
+  link: String!
+  description: String!
+}
