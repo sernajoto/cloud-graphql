@@ -6,7 +6,7 @@
 
 ```sh
 git clone https://github.com/sernajoto/cloud-graphql.git
-cd graphql-js
+cd cloud-graphql
 ```
 
 ### 2. Start the server & open Playground
