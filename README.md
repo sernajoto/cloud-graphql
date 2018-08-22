@@ -14,7 +14,7 @@ npm install
 
 To interact with the API in a GraphQL Playground, all you need to do is execute the
 ```sh
-node src/server.js
+npm start
 ```
 
 Access the application in
